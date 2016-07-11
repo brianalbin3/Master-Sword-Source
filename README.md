@@ -8,7 +8,7 @@ Master-Sword: Source is a mod created using the Source Engine by a small team in
 
 The moddb profile where you can see pictures can be found on [moddb](http://www.moddb.com/mods/master-sword-source)
 
-## Screen Shots
+## Screenshots
 
 ![Skills Menu](http://media.moddb.com/cache/images/mods/1/12/11411/thumb_620x2000/edana_a04a0006.jpg)
 
